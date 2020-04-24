@@ -1,0 +1,17 @@
+{
+  "name": "js-array-cardio",
+  "version": "1.0.0",
+  "description": "https://github.com/bradtraversy/javascript_cardio",
+  "main": "session-1.js",
+  "scripts": {
+    "test": "mocha *.spec.js"
+  },
+  "author": "Muharrem Sonmez",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.1",
+    "sinon": "^9.0.2"
+  },
+  "dependencies": {}
+}
