@@ -1,5 +1,6 @@
 const expect = require('chai').expect;
 const sinon = require('sinon');
+
 const session1 = require('./session-1');
 
 describe('Session 1', () => {
